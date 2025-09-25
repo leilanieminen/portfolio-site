@@ -1,1 +1,3 @@
-Hello, there is a lot of errors in my repository.
+Hello, this repository is a practise assignment. Here is a link: https://github.com/leilanieminen/portfolio-site
+
+
